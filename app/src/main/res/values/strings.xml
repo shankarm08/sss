@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CreditAppHelper</string>
+    <string name="creditcard">Enter Card Balance($)</string>
+    <string name="compute">compute</string>
+    <string name="clear">clear</string>
+    <string name="mini">Enter Minimum Payment($)</string>
+    <string name="finale">Final Card Balance($)</string>
+    <string name="mr">Months Remaining</string>
+    <string name="creditcardnew">Enter Yearly Interest Rate(%)</string>
+</resources>

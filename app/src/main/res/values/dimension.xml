@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="activity_h_margin" > 16dp</dimen>
+    <dimen name="activity_v_margin" > 16dp</dimen>
+
+
+    <dimen name="big_text" > 24dp</dimen>
+
+    <dimen name="small_text" > 18dp</dimen>
+
+    <dimen name="default_padding"> 8dp</dimen>
+
+
+</resources>
